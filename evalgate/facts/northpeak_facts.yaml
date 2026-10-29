@@ -1,0 +1,1259 @@
+company: Northpeak Robotics (fictional)
+facts:
+- id: pto_0_2
+  value: 15 days
+  mentioned_in:
+  - hr/pto-policy.md
+  also_in_archive_or_tickets:
+  - archive/hr/pto-policy-v3-2024.md
+  tests_using_these_docs:
+  - current_vs_archived-02
+  - exception-13
+- id: pto_3_5
+  value: 20 days
+  mentioned_in:
+  - hr/pto-policy.md
+  also_in_archive_or_tickets:
+  - archive/hr/pto-policy-v3-2024.md
+  tests_using_these_docs:
+  - current_vs_archived-02
+  - exception-13
+- id: pto_6_plus
+  value: 25 days
+  mentioned_in:
+  - hr/pto-policy.md
+  also_in_archive_or_tickets:
+  - archive/hr/pto-policy-v3-2024.md
+  tests_using_these_docs:
+  - current_vs_archived-02
+  - exception-13
+- id: pto_carryover
+  value: 5 days
+  mentioned_in:
+  - hr/bereavement-and-jury-duty.md
+  - hr/pto-policy.md
+  also_in_archive_or_tickets:
+  - archive/hr/pto-policy-v3-2024.md
+  tests_using_these_docs:
+  - current_vs_archived-02
+  - exception-13
+  - policy_fact-02
+  - policy_fact-03
+- id: pto_carryover_old
+  value: 10 days
+  mentioned_in:
+  - hr/bereavement-and-jury-duty.md
+  - hr/pto-policy.md
+  - hr/sick-leave-policy.md
+  also_in_archive_or_tickets:
+  - archive/hr/pto-policy-v3-2024.md
+  tests_using_these_docs:
+  - current_vs_archived-02
+  - exception-13
+  - policy_fact-01
+  - policy_fact-02
+  - policy_fact-03
+- id: pto_notice
+  value: two weeks
+  mentioned_in:
+  - hr/pto-policy.md
+  - hr/remote-work-policy.md
+  - hr/sick-leave-policy.md
+  - knowledge-base/np-100-battery-care.md
+  - knowledge-base/np-150-battery-care.md
+  - knowledge-base/np-300-battery-care.md
+  - knowledge-base/np-350-battery-care.md
+  - knowledge-base/np-500-battery-care.md
+  - knowledge-base/np-550-battery-care.md
+  - meetings/2026-08-26-it-laptop-refresh-update.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - current_vs_archived-02
+  - current_vs_archived-07
+  - exception-13
+  - policy_fact-01
+  - policy_fact-18
+- id: sick_days
+  value: 10 days
+  mentioned_in:
+  - hr/bereavement-and-jury-duty.md
+  - hr/pto-policy.md
+  - hr/sick-leave-policy.md
+  also_in_archive_or_tickets:
+  - archive/hr/pto-policy-v3-2024.md
+  tests_using_these_docs:
+  - current_vs_archived-02
+  - exception-13
+  - policy_fact-01
+  - policy_fact-02
+  - policy_fact-03
+- id: sick_note_after
+  value: 3 consecutive days
+  mentioned_in:
+  - hr/sick-leave-policy.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - policy_fact-01
+- id: bereave_immediate
+  value: 5 days
+  mentioned_in:
+  - hr/bereavement-and-jury-duty.md
+  - hr/pto-policy.md
+  also_in_archive_or_tickets:
+  - archive/hr/pto-policy-v3-2024.md
+  tests_using_these_docs:
+  - current_vs_archived-02
+  - exception-13
+  - policy_fact-02
+  - policy_fact-03
+- id: bereave_extended
+  value: 2 days
+  mentioned_in:
+  - hr/bereavement-and-jury-duty.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - policy_fact-02
+  - policy_fact-03
+- id: jury_days
+  value: 10 days
+  mentioned_in:
+  - hr/bereavement-and-jury-duty.md
+  - hr/pto-policy.md
+  - hr/sick-leave-policy.md
+  also_in_archive_or_tickets:
+  - archive/hr/pto-policy-v3-2024.md
+  tests_using_these_docs:
+  - current_vs_archived-02
+  - exception-13
+  - policy_fact-01
+  - policy_fact-02
+  - policy_fact-03
+- id: parental_weeks
+  value: 16 weeks
+  mentioned_in:
+  - hr/parental-leave-policy.md
+  - meetings/2025-12-05-hr-parental-leave-announcement.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - current_vs_archived-03
+- id: parental_weeks_old
+  value: 12 weeks
+  mentioned_in:
+  - hr/parental-leave-policy.md
+  - meetings/2025-12-05-hr-parental-leave-announcement.md
+  also_in_archive_or_tickets:
+  - archive/hr/parental-leave-policy-v2-2025.md
+  tests_using_these_docs:
+  - current_vs_archived-03
+- id: parental_eligible
+  value: 6 months
+  mentioned_in:
+  - hr/parental-leave-policy.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - current_vs_archived-03
+- id: parental_window
+  value: 12 months
+  mentioned_in:
+  - finance/relocation-policy.md
+  - hr/parental-leave-policy.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - current_vs_archived-03
+  - policy_fact-09
+- id: remote_eligible
+  value: 90 days
+  mentioned_in:
+  - benefits/stock-options.md
+  - hr/employee-referral-program.md
+  - hr/remote-work-policy.md
+  - onboarding/first-week-guide.md
+  - support/warranty-policy.md
+  also_in_archive_or_tickets:
+  - archive/hr/employee-referral-program-v2-2024.md
+  - archive/it/password-policy-v2-2024.md
+  tests_using_these_docs:
+  - current_vs_archived-07
+  - current_vs_archived-11
+  - exception-10
+  - exception-11
+  - exception-12
+  - policy_fact-04
+  - policy_fact-14
+  - policy_fact-18
+  - product_spec-14
+  - role-04
+  - role-05
+- id: core_hours
+  value: 10:00 a.m. to 3:00 p.m.
+  mentioned_in:
+  - hr/remote-work-policy.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - current_vs_archived-07
+  - policy_fact-18
+- id: intl_remote
+  value: 2 weeks
+  mentioned_in:
+  - hr/parental-leave-policy.md
+  - hr/remote-work-policy.md
+  - meetings/2025-12-05-hr-parental-leave-announcement.md
+  also_in_archive_or_tickets:
+  - archive/hr/parental-leave-policy-v2-2025.md
+  tests_using_these_docs:
+  - current_vs_archived-03
+  - current_vs_archived-07
+  - policy_fact-18
+- id: office_stipend
+  value: $500
+  mentioned_in:
+  - hr/remote-work-policy.md
+  - offices/remote-employee-guide.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - current_vs_archived-07
+  - policy_fact-18
+- id: office_stipend_old
+  value: $300
+  mentioned_in:
+  - engineering/on-call-policy.md
+  - finance/travel-and-expense-policy.md
+  - hr/remote-work-policy.md
+  also_in_archive_or_tickets:
+  - archive/hr/remote-work-policy-v4-2023.md
+  tests_using_these_docs:
+  - current_vs_archived-01
+  - current_vs_archived-07
+  - current_vs_archived-08
+  - exception-01
+  - exception-02
+  - exception-03
+  - exception-04
+  - exception-05
+  - exception-06
+  - exception-07
+  - policy_fact-05
+  - policy_fact-06
+  - policy_fact-07
+  - policy_fact-18
+- id: internet_stipend
+  value: $50
+  mentioned_in:
+  - finance/expense-approval-limits.md
+  - finance/travel-and-expense-policy.md
+  - hr/remote-work-policy.md
+  - offices/remote-employee-guide.md
+  also_in_archive_or_tickets:
+  - archive/finance/travel-and-expense-policy-v6-2025.md
+  tests_using_these_docs:
+  - current_vs_archived-01
+  - current_vs_archived-07
+  - exception-01
+  - exception-02
+  - exception-03
+  - exception-04
+  - exception-05
+  - exception-06
+  - exception-07
+  - policy_fact-05
+  - policy_fact-06
+  - policy_fact-07
+  - policy_fact-18
+  - role-01
+  - role-02
+  - role-03
+- id: coworking
+  value: $150
+  mentioned_in:
+  - hr/remote-work-policy.md
+  - offices/remote-employee-guide.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - current_vs_archived-07
+  - policy_fact-18
+- id: referral_eng
+  value: $3,000
+  mentioned_in:
+  - hr/employee-referral-program.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - policy_fact-04
+  - role-04
+  - role-05
+- id: referral_other
+  value: $1,500
+  mentioned_in:
+  - finance/training-and-conference-budget.md
+  - hr/employee-referral-program.md
+  also_in_archive_or_tickets:
+  - archive/finance/training-budget-2024.md
+  tests_using_these_docs:
+  - current_vs_archived-09
+  - policy_fact-04
+  - role-04
+  - role-05
+- id: referral_old
+  value: $2,000
+  mentioned_in:
+  - finance/expense-approval-limits.md
+  - finance/procurement-policy.md
+  - finance/training-and-conference-budget.md
+  - hr/employee-referral-program.md
+  - onboarding/new-manager-guide.md
+  also_in_archive_or_tickets:
+  - archive/hr/employee-referral-program-v2-2024.md
+  tests_using_these_docs:
+  - current_vs_archived-09
+  - policy_fact-04
+  - policy_fact-08
+  - role-01
+  - role-02
+  - role-03
+  - role-04
+  - role-05
+- id: referral_wait
+  value: 90 days
+  mentioned_in:
+  - benefits/stock-options.md
+  - hr/employee-referral-program.md
+  - hr/remote-work-policy.md
+  - onboarding/first-week-guide.md
+  - support/warranty-policy.md
+  also_in_archive_or_tickets:
+  - archive/hr/employee-referral-program-v2-2024.md
+  - archive/it/password-policy-v2-2024.md
+  tests_using_these_docs:
+  - current_vs_archived-07
+  - current_vs_archived-11
+  - exception-10
+  - exception-11
+  - exception-12
+  - policy_fact-04
+  - policy_fact-14
+  - policy_fact-18
+  - product_spec-14
+  - role-04
+  - role-05
+- id: review_months
+  value: April and October
+  mentioned_in:
+  - hr/performance-and-promotions.md
+  - onboarding/new-manager-guide.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - policy_fact-17
+- id: promo_month
+  value: October
+  mentioned_in:
+  - hr/performance-and-promotions.md
+  - it/vpn-and-remote-access.md
+  - meetings/2026-10-01-product-roadmap-sync.md
+  - meetings/2026-10-07-people-team-update.md
+  - meetings/2026-10-14-security-awareness-month.md
+  - onboarding/new-manager-guide.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - future_change-03
+  - policy_fact-17
+- id: overtime_rate
+  value: 1.5 times
+  mentioned_in:
+  - hr/company-holidays-2026.md
+  - hr/working-hours-and-overtime.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - location-01
+  - location-02
+  - role-06
+- id: overtime_after
+  value: 40 hours
+  mentioned_in:
+  - hr/working-hours-and-overtime.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - role-06
+- id: ethics_line
+  value: 1-800-555-0142
+  mentioned_in:
+  - hr/anti-harassment-policy.md
+  - hr/code-of-conduct.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - policy_fact-16
+- id: meal_dom
+  value: $60
+  mentioned_in:
+  - benefits/wellness-and-commuter-benefits.md
+  - finance/travel-and-expense-policy.md
+  - meetings/2026-06-10-all-hands-q2-notes.md
+  also_in_archive_or_tickets:
+  - archive/benefits/wellness-benefits-2024.md
+  tests_using_these_docs:
+  - current_vs_archived-01
+  - exception-01
+  - exception-02
+  - exception-03
+  - exception-04
+  - exception-05
+  - exception-06
+  - exception-07
+  - location-07
+  - policy_fact-05
+  - policy_fact-06
+  - policy_fact-07
+  - policy_fact-19
+- id: meal_intl
+  value: $90
+  mentioned_in:
+  - finance/travel-and-expense-policy.md
+  - meetings/2026-06-10-all-hands-q2-notes.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - current_vs_archived-01
+  - exception-01
+  - exception-02
+  - exception-03
+  - exception-04
+  - exception-05
+  - exception-06
+  - exception-07
+  - policy_fact-05
+  - policy_fact-06
+  - policy_fact-07
+- id: meal_dom_old
+  value: $50
+  mentioned_in:
+  - finance/expense-approval-limits.md
+  - finance/travel-and-expense-policy.md
+  - hr/remote-work-policy.md
+  - offices/remote-employee-guide.md
+  also_in_archive_or_tickets:
+  - archive/finance/travel-and-expense-policy-v6-2025.md
+  tests_using_these_docs:
+  - current_vs_archived-01
+  - current_vs_archived-07
+  - exception-01
+  - exception-02
+  - exception-03
+  - exception-04
+  - exception-05
+  - exception-06
+  - exception-07
+  - policy_fact-05
+  - policy_fact-06
+  - policy_fact-07
+  - policy_fact-18
+  - role-01
+  - role-02
+  - role-03
+- id: meal_intl_old
+  value: $75
+  mentioned_in:
+  - finance/travel-and-expense-policy.md
+  also_in_archive_or_tickets:
+  - archive/finance/travel-and-expense-policy-v6-2025.md
+  tests_using_these_docs:
+  - current_vs_archived-01
+  - exception-01
+  - exception-02
+  - exception-03
+  - exception-04
+  - exception-05
+  - exception-06
+  - exception-07
+  - policy_fact-05
+  - policy_fact-06
+  - policy_fact-07
+- id: hotel_dom
+  value: $250
+  mentioned_in:
+  - finance/travel-and-expense-policy.md
+  also_in_archive_or_tickets:
+  - archive/finance/travel-and-expense-policy-v6-2025.md
+  tests_using_these_docs:
+  - current_vs_archived-01
+  - exception-01
+  - exception-02
+  - exception-03
+  - exception-04
+  - exception-05
+  - exception-06
+  - exception-07
+  - policy_fact-05
+  - policy_fact-06
+  - policy_fact-07
+- id: hotel_city
+  value: $350
+  mentioned_in:
+  - finance/travel-and-expense-policy.md
+  also_in_archive_or_tickets:
+  - archive/finance/travel-and-expense-policy-v6-2025.md
+  tests_using_these_docs:
+  - current_vs_archived-01
+  - exception-01
+  - exception-02
+  - exception-03
+  - exception-04
+  - exception-05
+  - exception-06
+  - exception-07
+  - policy_fact-05
+  - policy_fact-06
+  - policy_fact-07
+- id: hotel_intl
+  value: $300
+  mentioned_in:
+  - engineering/on-call-policy.md
+  - finance/travel-and-expense-policy.md
+  - hr/remote-work-policy.md
+  also_in_archive_or_tickets:
+  - archive/hr/remote-work-policy-v4-2023.md
+  tests_using_these_docs:
+  - current_vs_archived-01
+  - current_vs_archived-07
+  - current_vs_archived-08
+  - exception-01
+  - exception-02
+  - exception-03
+  - exception-04
+  - exception-05
+  - exception-06
+  - exception-07
+  - policy_fact-05
+  - policy_fact-06
+  - policy_fact-07
+  - policy_fact-18
+- id: flight_premium_hours
+  value: 6 hours
+  mentioned_in:
+  - finance/travel-and-expense-policy.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - current_vs_archived-01
+  - exception-01
+  - exception-02
+  - exception-03
+  - exception-04
+  - exception-05
+  - exception-06
+  - exception-07
+  - policy_fact-05
+  - policy_fact-06
+  - policy_fact-07
+- id: receipt_over
+  value: $25
+  mentioned_in:
+  - finance/procurement-policy.md
+  - finance/travel-and-expense-policy.md
+  also_in_archive_or_tickets:
+  - archive/finance/travel-and-expense-policy-v6-2025.md
+  tests_using_these_docs:
+  - current_vs_archived-01
+  - exception-01
+  - exception-02
+  - exception-03
+  - exception-04
+  - exception-05
+  - exception-06
+  - exception-07
+  - policy_fact-05
+  - policy_fact-06
+  - policy_fact-07
+  - policy_fact-08
+- id: expense_submit
+  value: 30 days
+  mentioned_in:
+  - benefits/401k-retirement-plan.md
+  - benefits/health-insurance-overview.md
+  - finance/corporate-card-policy.md
+  - finance/relocation-policy.md
+  - finance/travel-and-expense-policy.md
+  - hr/anti-harassment-policy.md
+  - onboarding/first-week-guide.md
+  - support/refund-and-return-policy.md
+  also_in_archive_or_tickets:
+  - archive/support/refund-policy-v2-2024.md
+  - support-tickets/npk-10016.md
+  - support-tickets/npk-10018.md
+  - support-tickets/npk-10029.md
+  - support-tickets/npk-10035.md
+  tests_using_these_docs:
+  - current_vs_archived-01
+  - current_vs_archived-10
+  - exception-01
+  - exception-02
+  - exception-03
+  - exception-04
+  - exception-05
+  - exception-06
+  - exception-07
+  - exception-08
+  - exception-09
+  - policy_fact-05
+  - policy_fact-06
+  - policy_fact-07
+  - policy_fact-09
+  - policy_fact-13
+  - policy_fact-15
+- id: expense_cutoff
+  value: 60 days
+  mentioned_in:
+  - finance/travel-and-expense-policy.md
+  - hr/remote-work-policy.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - current_vs_archived-01
+  - current_vs_archived-07
+  - exception-01
+  - exception-02
+  - exception-03
+  - exception-04
+  - exception-05
+  - exception-06
+  - exception-07
+  - policy_fact-05
+  - policy_fact-06
+  - policy_fact-07
+  - policy_fact-18
+- id: approve_mgr
+  value: $2,000
+  mentioned_in:
+  - finance/expense-approval-limits.md
+  - finance/procurement-policy.md
+  - finance/training-and-conference-budget.md
+  - hr/employee-referral-program.md
+  - onboarding/new-manager-guide.md
+  also_in_archive_or_tickets:
+  - archive/hr/employee-referral-program-v2-2024.md
+  tests_using_these_docs:
+  - current_vs_archived-09
+  - policy_fact-04
+  - policy_fact-08
+  - role-01
+  - role-02
+  - role-03
+  - role-04
+  - role-05
+- id: approve_dir
+  value: $10,000
+  mentioned_in:
+  - finance/expense-approval-limits.md
+  - finance/relocation-policy.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - policy_fact-09
+  - role-01
+  - role-02
+  - role-03
+- id: approve_cfo
+  value: $50,000
+  mentioned_in:
+  - finance/expense-approval-limits.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - role-01
+  - role-02
+  - role-03
+- id: mileage
+  value: $0.70
+  mentioned_in:
+  - finance/travel-and-expense-policy.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - current_vs_archived-01
+  - exception-01
+  - exception-02
+  - exception-03
+  - exception-04
+  - exception-05
+  - exception-06
+  - exception-07
+  - policy_fact-05
+  - policy_fact-06
+  - policy_fact-07
+- id: training_budget
+  value: $2,000
+  mentioned_in:
+  - finance/expense-approval-limits.md
+  - finance/procurement-policy.md
+  - finance/training-and-conference-budget.md
+  - hr/employee-referral-program.md
+  - onboarding/new-manager-guide.md
+  also_in_archive_or_tickets:
+  - archive/hr/employee-referral-program-v2-2024.md
+  tests_using_these_docs:
+  - current_vs_archived-09
+  - policy_fact-04
+  - policy_fact-08
+  - role-01
+  - role-02
+  - role-03
+  - role-04
+  - role-05
+- id: training_budget_old
+  value: $1,500
+  mentioned_in:
+  - finance/training-and-conference-budget.md
+  - hr/employee-referral-program.md
+  also_in_archive_or_tickets:
+  - archive/finance/training-budget-2024.md
+  tests_using_these_docs:
+  - current_vs_archived-09
+  - policy_fact-04
+  - role-04
+  - role-05
+- id: quotes_over
+  value: $25,000
+  mentioned_in:
+  - finance/procurement-policy.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - policy_fact-08
+- id: relocation
+  value: $10,000
+  mentioned_in:
+  - finance/expense-approval-limits.md
+  - finance/relocation-policy.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - policy_fact-09
+  - role-01
+  - role-02
+  - role-03
+- id: pw_len
+  value: 14 characters
+  mentioned_in:
+  - it/password-and-mfa-policy.md
+  - meetings/2026-03-02-it-password-change.md
+  - onboarding/accounts-setup-checklist.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - current_vs_archived-04
+  - current_vs_archived-05
+- id: pw_len_old
+  value: 12 characters
+  mentioned_in:
+  - it/password-and-mfa-policy.md
+  also_in_archive_or_tickets:
+  - archive/it/password-policy-v2-2024.md
+  tests_using_these_docs:
+  - current_vs_archived-04
+  - current_vs_archived-05
+- id: laptop_refresh
+  value: 3 years
+  mentioned_in:
+  - it/device-and-laptop-policy.md
+  - knowledge-base/np-100-battery-care.md
+  - knowledge-base/np-150-battery-care.md
+  - knowledge-base/np-500-battery-care.md
+  - knowledge-base/np-550-battery-care.md
+  - meetings/2026-08-26-it-laptop-refresh-update.md
+  - products/np-100-user-manual.md
+  - products/np-150-user-manual.md
+  - products/np-500-spec-sheet.md
+  - products/np-500-user-manual.md
+  - products/np-550-spec-sheet.md
+  - products/np-550-user-manual.md
+  - support/warranty-policy.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - current_vs_archived-06
+  - current_vs_archived-11
+  - exception-10
+  - exception-11
+  - exception-12
+  - policy_fact-12
+  - product_confusion-04
+  - product_confusion-05
+  - product_spec-05
+  - product_spec-06
+  - product_spec-09
+  - product_spec-10
+  - product_spec-11
+  - product_spec-14
+  - troubleshooting-10
+- id: laptop_refresh_old
+  value: 4 years
+  mentioned_in:
+  - benefits/stock-options.md
+  - it/device-and-laptop-policy.md
+  - knowledge-base/np-300-battery-care.md
+  - knowledge-base/np-350-battery-care.md
+  - products/np-300-user-manual.md
+  - products/np-350-user-manual.md
+  also_in_archive_or_tickets:
+  - archive/it/device-policy-v3-2023.md
+  tests_using_these_docs:
+  - current_vs_archived-06
+  - policy_fact-12
+  - policy_fact-14
+- id: lost_report
+  value: 1 hour
+  mentioned_in:
+  - engineering/incident-severity-levels.md
+  - engineering/on-call-policy.md
+  - it/lost-or-stolen-device.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - current_vs_archived-08
+  - policy_fact-10
+- id: it_ext
+  value: '4357'
+  mentioned_in:
+  - it/help-desk-hours.md
+  - it/lost-or-stolen-device.md
+  - it/phishing-and-incident-reporting.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - location-05
+  - policy_fact-10
+  - policy_fact-11
+- id: sw_sla
+  value: 2 business days
+  mentioned_in:
+  - it/device-and-laptop-policy.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - current_vs_archived-06
+  - policy_fact-12
+- id: help_hours
+  value: 8:00 a.m. to 6:00 p.m.
+  mentioned_in:
+  - it/help-desk-hours.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - location-05
+- id: help_hours_old
+  value: 9:00 a.m. to 5:00 p.m.
+  mentioned_in:
+  - it/help-desk-hours.md
+  also_in_archive_or_tickets:
+  - archive/it/help-desk-hours-v2-2024.md
+  tests_using_these_docs:
+  - location-05
+- id: k401_future_date
+  value: January 1, 2027
+  mentioned_in:
+  - meetings/2026-09-15-benefits-401k-announcement.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - future_change-01
+- id: wellness
+  value: $600
+  mentioned_in:
+  - benefits/wellness-and-commuter-benefits.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - location-07
+  - policy_fact-19
+- id: wellness_old
+  value: $400
+  mentioned_in:
+  - benefits/wellness-and-commuter-benefits.md
+  also_in_archive_or_tickets:
+  - archive/benefits/wellness-benefits-2024.md
+  tests_using_these_docs:
+  - location-07
+  - policy_fact-19
+- id: mbta_pct
+  value: 50%
+  mentioned_in:
+  - benefits/wellness-and-commuter-benefits.md
+  - offices/boston-office-guide.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - location-03
+  - location-07
+  - policy_fact-19
+- id: mbta_cap
+  value: $100
+  mentioned_in:
+  - benefits/wellness-and-commuter-benefits.md
+  - hr/code-of-conduct.md
+  - offices/boston-office-guide.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - location-03
+  - location-07
+  - policy_fact-16
+  - policy_fact-19
+- id: mbta_pct_old
+  value: 30%
+  mentioned_in:
+  - benefits/wellness-and-commuter-benefits.md
+  also_in_archive_or_tickets:
+  - archive/benefits/wellness-benefits-2024.md
+  tests_using_these_docs:
+  - location-07
+  - policy_fact-19
+- id: mbta_cap_old
+  value: $60
+  mentioned_in:
+  - benefits/wellness-and-commuter-benefits.md
+  - finance/travel-and-expense-policy.md
+  - meetings/2026-06-10-all-hands-q2-notes.md
+  also_in_archive_or_tickets:
+  - archive/benefits/wellness-benefits-2024.md
+  tests_using_these_docs:
+  - current_vs_archived-01
+  - exception-01
+  - exception-02
+  - exception-03
+  - exception-04
+  - exception-05
+  - exception-06
+  - exception-07
+  - location-07
+  - policy_fact-05
+  - policy_fact-06
+  - policy_fact-07
+  - policy_fact-19
+- id: health_enroll
+  value: 30 days
+  mentioned_in:
+  - benefits/401k-retirement-plan.md
+  - benefits/health-insurance-overview.md
+  - finance/corporate-card-policy.md
+  - finance/relocation-policy.md
+  - finance/travel-and-expense-policy.md
+  - hr/anti-harassment-policy.md
+  - onboarding/first-week-guide.md
+  - support/refund-and-return-policy.md
+  also_in_archive_or_tickets:
+  - archive/support/refund-policy-v2-2024.md
+  - support-tickets/npk-10016.md
+  - support-tickets/npk-10018.md
+  - support-tickets/npk-10029.md
+  - support-tickets/npk-10035.md
+  tests_using_these_docs:
+  - current_vs_archived-01
+  - current_vs_archived-10
+  - exception-01
+  - exception-02
+  - exception-03
+  - exception-04
+  - exception-05
+  - exception-06
+  - exception-07
+  - exception-08
+  - exception-09
+  - policy_fact-05
+  - policy_fact-06
+  - policy_fact-07
+  - policy_fact-09
+  - policy_fact-13
+  - policy_fact-15
+- id: vest_years
+  value: 4 years
+  mentioned_in:
+  - benefits/stock-options.md
+  - it/device-and-laptop-policy.md
+  - knowledge-base/np-300-battery-care.md
+  - knowledge-base/np-350-battery-care.md
+  - products/np-300-user-manual.md
+  - products/np-350-user-manual.md
+  also_in_archive_or_tickets:
+  - archive/it/device-policy-v3-2023.md
+  tests_using_these_docs:
+  - current_vs_archived-06
+  - policy_fact-12
+  - policy_fact-14
+- id: cliff
+  value: 1 year
+  mentioned_in:
+  - benefits/stock-options.md
+  - knowledge-base/np-100-battery-care.md
+  - knowledge-base/np-150-battery-care.md
+  - knowledge-base/np-300-battery-care.md
+  - knowledge-base/np-350-battery-care.md
+  - knowledge-base/np-500-battery-care.md
+  - knowledge-base/np-550-battery-care.md
+  - products/np-100-spec-sheet.md
+  - products/np-150-spec-sheet.md
+  - products/np-300-spec-sheet.md
+  - products/np-350-spec-sheet.md
+  - products/np-500-spec-sheet.md
+  - products/np-550-spec-sheet.md
+  - support/faq-np-100.md
+  - support/faq-np-150.md
+  - support/faq-np-300.md
+  - support/faq-np-350.md
+  - support/faq-np-500.md
+  - support/faq-np-550.md
+  - support/warranty-policy.md
+  also_in_archive_or_tickets:
+  - archive/support/warranty-policy-v2-2024.md
+  - support-tickets/npk-10145.md
+  - support-tickets/npk-10212.md
+  - support-tickets/npk-10318.md
+  - support-tickets/npk-10395.md
+  tests_using_these_docs:
+  - current_vs_archived-11
+  - exception-10
+  - exception-11
+  - exception-12
+  - policy_fact-14
+  - product_confusion-01
+  - product_confusion-02
+  - product_confusion-03
+  - product_confusion-04
+  - product_confusion-05
+  - product_confusion-06
+  - product_confusion-07
+  - product_confusion-08
+  - product_spec-01
+  - product_spec-02
+  - product_spec-03
+  - product_spec-04
+  - product_spec-05
+  - product_spec-06
+  - product_spec-07
+  - product_spec-08
+  - product_spec-09
+  - product_spec-10
+  - product_spec-11
+  - product_spec-12
+  - product_spec-14
+- id: oncall_pay
+  value: $300
+  mentioned_in:
+  - engineering/on-call-policy.md
+  - finance/travel-and-expense-policy.md
+  - hr/remote-work-policy.md
+  also_in_archive_or_tickets:
+  - archive/hr/remote-work-policy-v4-2023.md
+  tests_using_these_docs:
+  - current_vs_archived-01
+  - current_vs_archived-07
+  - current_vs_archived-08
+  - exception-01
+  - exception-02
+  - exception-03
+  - exception-04
+  - exception-05
+  - exception-06
+  - exception-07
+  - policy_fact-05
+  - policy_fact-06
+  - policy_fact-07
+  - policy_fact-18
+- id: oncall_pay_old
+  value: $200
+  mentioned_in:
+  - engineering/on-call-policy.md
+  also_in_archive_or_tickets:
+  - archive/engineering/on-call-policy-v1-2024.md
+  tests_using_these_docs:
+  - current_vs_archived-08
+- id: sev1_response
+  value: 15 minutes
+  mentioned_in:
+  - engineering/incident-severity-levels.md
+  - engineering/on-call-policy.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - current_vs_archived-08
+- id: soak_hours
+  value: 48 hours
+  mentioned_in:
+  - engineering/firmware-release-process.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - policy_fact-20
+- id: fw_approvals
+  value: 2 approvals
+  mentioned_in:
+  - engineering/firmware-release-process.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - policy_fact-20
+- id: refund_days
+  value: 30 days
+  mentioned_in:
+  - benefits/401k-retirement-plan.md
+  - benefits/health-insurance-overview.md
+  - finance/corporate-card-policy.md
+  - finance/relocation-policy.md
+  - finance/travel-and-expense-policy.md
+  - hr/anti-harassment-policy.md
+  - onboarding/first-week-guide.md
+  - support/refund-and-return-policy.md
+  also_in_archive_or_tickets:
+  - archive/support/refund-policy-v2-2024.md
+  - support-tickets/npk-10016.md
+  - support-tickets/npk-10018.md
+  - support-tickets/npk-10029.md
+  - support-tickets/npk-10035.md
+  tests_using_these_docs:
+  - current_vs_archived-01
+  - current_vs_archived-10
+  - exception-01
+  - exception-02
+  - exception-03
+  - exception-04
+  - exception-05
+  - exception-06
+  - exception-07
+  - exception-08
+  - exception-09
+  - policy_fact-05
+  - policy_fact-06
+  - policy_fact-07
+  - policy_fact-09
+  - policy_fact-13
+  - policy_fact-15
+- id: restock_fee
+  value: 15%
+  mentioned_in:
+  - products/np-100-user-manual.md
+  - products/np-150-user-manual.md
+  - products/np-300-user-manual.md
+  - products/np-350-user-manual.md
+  - products/np-500-user-manual.md
+  - products/np-550-user-manual.md
+  - support/refund-and-return-policy.md
+  also_in_archive_or_tickets:
+  - support-tickets/npk-10016.md
+  - support-tickets/npk-10029.md
+  - support-tickets/npk-10035.md
+  - support-tickets/npk-10040.md
+  - support-tickets/npk-10041.md
+  tests_using_these_docs:
+  - current_vs_archived-10
+  - exception-08
+  - exception-09
+  - troubleshooting-10
+- id: ext_warranty_window
+  value: 90 days
+  mentioned_in:
+  - benefits/stock-options.md
+  - hr/employee-referral-program.md
+  - hr/remote-work-policy.md
+  - onboarding/first-week-guide.md
+  - support/warranty-policy.md
+  also_in_archive_or_tickets:
+  - archive/hr/employee-referral-program-v2-2024.md
+  - archive/it/password-policy-v2-2024.md
+  tests_using_these_docs:
+  - current_vs_archived-07
+  - current_vs_archived-11
+  - exception-10
+  - exception-11
+  - exception-12
+  - policy_fact-04
+  - policy_fact-14
+  - policy_fact-18
+  - product_spec-14
+  - role-04
+  - role-05
+- id: battery_warranty
+  value: 1 year
+  mentioned_in:
+  - benefits/stock-options.md
+  - knowledge-base/np-100-battery-care.md
+  - knowledge-base/np-150-battery-care.md
+  - knowledge-base/np-300-battery-care.md
+  - knowledge-base/np-350-battery-care.md
+  - knowledge-base/np-500-battery-care.md
+  - knowledge-base/np-550-battery-care.md
+  - products/np-100-spec-sheet.md
+  - products/np-150-spec-sheet.md
+  - products/np-300-spec-sheet.md
+  - products/np-350-spec-sheet.md
+  - products/np-500-spec-sheet.md
+  - products/np-550-spec-sheet.md
+  - support/faq-np-100.md
+  - support/faq-np-150.md
+  - support/faq-np-300.md
+  - support/faq-np-350.md
+  - support/faq-np-500.md
+  - support/faq-np-550.md
+  - support/warranty-policy.md
+  also_in_archive_or_tickets:
+  - archive/support/warranty-policy-v2-2024.md
+  - support-tickets/npk-10145.md
+  - support-tickets/npk-10212.md
+  - support-tickets/npk-10318.md
+  - support-tickets/npk-10395.md
+  tests_using_these_docs:
+  - current_vs_archived-11
+  - exception-10
+  - exception-11
+  - exception-12
+  - policy_fact-14
+  - product_confusion-01
+  - product_confusion-02
+  - product_confusion-03
+  - product_confusion-04
+  - product_confusion-05
+  - product_confusion-06
+  - product_confusion-07
+  - product_confusion-08
+  - product_spec-01
+  - product_spec-02
+  - product_spec-03
+  - product_spec-04
+  - product_spec-05
+  - product_spec-06
+  - product_spec-07
+  - product_spec-08
+  - product_spec-09
+  - product_spec-10
+  - product_spec-11
+  - product_spec-12
+  - product_spec-14
+- id: premium_response
+  value: 4 hours
+  mentioned_in:
+  - hr/code-of-conduct.md
+  - hr/lab-and-floor-safety-dress-code.md
+  - it/help-desk-hours.md
+  - offices/austin-office-guide.md
+  - offices/boston-office-guide.md
+  - products/np-300-quick-start.md
+  - products/np-300-spec-sheet.md
+  - products/np-300-user-manual.md
+  - support/service-level-agreements.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - location-03
+  - location-04
+  - location-05
+  - policy_fact-16
+  - product_spec-03
+  - product_spec-08
+- id: premium_cost
+  value: 12%
+  mentioned_in:
+  - meetings/2026-09-02-support-team-sync.md
+  - support/service-level-agreements.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs: []
+- id: support_phone
+  value: 1-800-555-0199
+  mentioned_in:
+  - products/np-100-quick-start.md
+  - products/np-100-troubleshooting.md
+  - products/np-150-quick-start.md
+  - products/np-150-troubleshooting.md
+  - products/np-300-quick-start.md
+  - products/np-300-troubleshooting.md
+  - products/np-350-quick-start.md
+  - products/np-350-troubleshooting.md
+  - products/np-500-quick-start.md
+  - products/np-500-troubleshooting.md
+  - products/np-550-quick-start.md
+  - products/np-550-troubleshooting.md
+  - support/how-to-contact-support.md
+  - support/service-level-agreements.md
+  also_in_archive_or_tickets: []
+  tests_using_these_docs:
+  - troubleshooting-01
+  - troubleshooting-02
+  - troubleshooting-03
+  - troubleshooting-04
+  - troubleshooting-05
+  - troubleshooting-06
+  - troubleshooting-07
+  - troubleshooting-08
+  - troubleshooting-09

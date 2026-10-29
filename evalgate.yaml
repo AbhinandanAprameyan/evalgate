@@ -1,0 +1,17 @@
+# EvalGate configuration. To test a different assistant, change only this file.
+assistant:
+  endpoint: http://127.0.0.1:8000/ask
+  question_field: question
+  answer_field: answer
+  sources_field: sources
+  extra_fields:
+    prompt_version: "{version}"
+  timeout_seconds: 180
+
+tests: evalgate/tests/northpeak_tests.yaml
+baseline: evalgate/baselines/northpeak.json
+
+gate:
+  max_overall_drop: 3          # percentage points
+  max_category_drop: 10        # percentage points
+  critical_categories: [confidential, injection]   # any drop is blocked

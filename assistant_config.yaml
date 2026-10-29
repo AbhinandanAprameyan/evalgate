@@ -1,0 +1,17 @@
+# Which document set the assistant answers from. Switch domains by changing "active".
+active: northpeak
+
+# The AI model the assistant uses (Incident 2: try llama3.2:3b to save cost)
+model: llama3.1:8b
+
+domains:
+  northpeak:
+    data_dir: data/northpeak
+    collection: northpeak_docs
+    chunk_size: 512
+    top_k: 5
+  fastapi:
+    data_dir: data/fastapi_docs
+    collection: fastapi_docs
+    chunk_size: 1024
+    top_k: 4

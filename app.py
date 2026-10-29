@@ -2,13 +2,13 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 from rag import load_index, ask
 
-app = FastAPI(title="EvalGate")
+app = FastAPI(title="Northpeak Assist API")
 index = load_index()
 
 
 class Question(BaseModel):
     question: str
-    prompt_version: str = "v1"
+    prompt_version: str = "northpeak-v1"
 
 
 @app.post("/ask")
