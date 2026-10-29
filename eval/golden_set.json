@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is an origin in the context of CORS?",
+    "ground_truth": "An origin is the combination of protocol (http or https), domain (e.g. localhost or myapp.com), and port (e.g. 80, 443, 8080). http://localhost, https://localhost, and http://localhost:8080 are all different origins.",
+    "expected_source": "cors.md"
+  },
+  {
+    "question": "How do I create a middleware in FastAPI?",
+    "ground_truth": "Use the @app.middleware(\"http\") decorator on top of a function. The function receives the request and a call_next function, which passes the request to the path operation and returns the response, which you can modify before returning it.",
+    "expected_source": "middleware.md"
+  },
+  {
+    "question": "Why do I put uvicorn.run inside an if __name__ == \"__main__\" block?",
+    "ground_truth": "So the code runs only when the file is executed directly (e.g. python myapp.py), and not when another file imports it (e.g. from myapp import app).",
+    "expected_source": "debugging.md"
+  },
+  {
+    "question": "What is the default value of allow_methods in CORSMiddleware?",
+    "ground_truth": "It defaults to ['GET']. You can use ['*'] to allow all standard methods.",
+    "expected_source": "cors.md"
+  },
+  {
+    "question": "If I add MiddlewareA and then MiddlewareB with app.add_middleware, which runs first on a request?",
+    "ground_truth": "MiddlewareB runs first on the request path, then MiddlewareA, then the route. The last middleware added is the outermost.",
+    "expected_source": "middleware.md"
+  },
+  {
+    "question": "How do I declare a path parameter in FastAPI?",
+    "ground_truth": "Put the parameter name in curly braces in the route path, e.g. @app.get(\"/items/{item_id}\"), and add a function parameter with the same name and a type, e.g. item_id: int.",
+    "expected_source": "path-params.md"
+  }
+]
