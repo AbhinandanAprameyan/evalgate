@@ -1,5 +1,6 @@
 import sys
 from rag import load_index, ask
+# for just testing purposes, you can run this script with a prompt version and a question as command line arguments. If no arguments are provided, it defaults to "northpeak-v1" and a sample question.    
 
 # Usage: python ask.py <prompt-version> "<question>"
 version = sys.argv[1] if len(sys.argv) > 1 else "northpeak-v1"
